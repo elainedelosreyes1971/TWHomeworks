@@ -1,0 +1,1 @@
+This repository serves as my storage for the ThoughtWorks homeworks that will be provided throughout the course. Thank you!
